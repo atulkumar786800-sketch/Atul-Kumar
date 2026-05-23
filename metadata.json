@@ -1,0 +1,6 @@
+{
+  "name": "TravelAI",
+  "description": "AI-Powered Premium Luxury Travel Planner, Chatbot, and Vacation Booking Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
